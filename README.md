@@ -39,9 +39,9 @@ In my free time, I'm an avid gamer. Whether it's exploring virtual worlds, solvi
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YassaaaTU&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YassaaaTU&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YassaaaTU&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=YassaaaTU&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YassaaaTU&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YassaaaTU&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💰 You can help me by Donating
 
@@ -50,13 +50,12 @@ In my free time, I'm an avid gamer. Whether it's exploring virtual worlds, solvi
 <!-- [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/template)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/template) -->
 
+## 📈 Visitor Count
+
+[![](https://visitcount.itsvg.in/api?id=YassaaaTU&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ### 😂 Random Dev Meme
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- ## 📈 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=YassaaaTU&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
