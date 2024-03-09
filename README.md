@@ -1,7 +1,12 @@
 <h1 align="center">
-<img align="right" alt="Static Badge" src="https://img.shields.io/badge/Paypal-black?style=for-the-badge&logo=paypal&logoColor=white&color=%2300457c" href="https://paypal.me/yjumaah"/></p>
+<a href="https://paypal.me/yjumaah">
+<img align="right" alt="Static Badge" src="https://img.shields.io/badge/Paypal-black?style=for-the-badge&logo=paypal&logoColor=white&color=%2300457c"/></p>
+</a>
  👨🏻‍💻 Who am I?
 <img align="left" src="https://visitcount.itsvg.in/api?id=YassaaaTU&label=Profile%20Views&color=12&icon=5&pretty=true" />
+ <a href="https://links.yassaaa.com/">
+<img align= "right" alt="Static Badge" src="https://img.shields.io/badge/Socials-black?style=for-the-badge">
+</a>
  </h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassaaatu&label=👁️%20_%20_&color=0e75b6&style=flat-square&abbreviated=true&color=blueviolet" alt="yassaaatu" />  -->
@@ -23,16 +28,16 @@
 <h2 align="center">🎮 Gaming</h2>
 
 <p align="center">In my free time, I'm an avid gamer. Whether it's exploring virtual worlds, solving puzzles, or competing in multiplayer games, I'm always up for a gaming session</p>
-<p>&nbsp;</p>
-<h2 align="center">🌐 Socials</h2>
+<!-- <p>&nbsp;</p>
+<h2 align="center">🌐 Socials</h2> -->
 
-<p align="center">
+<!-- <p align="center">
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/DeceasedGhostt?style=for-the-badge&logo=twitch&logoColor=white&labelColor=purple" href="https://www.twitch.tv/deceasedghostt" />
 <img alt="Static Badge" src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=x&color=black&link=https%3A%2F%2Ftwitter.com%2FDeceasedGhostt">
 <img alt="Static Badge" src="https://img.shields.io/badge/YOUTUBE-black?style=for-the-badge&logo=youtube&color=red&link=https%3A%2F%2Fwww.youtube.com%2F%40DeceasedGhost">
 <img alt="Static Badge" src="https://img.shields.io/badge/reddit-black?style=for-the-badge&logo=reddit&logoColor=white&color=orange&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FDeceasedGhost%2F">
 <img alt="Static Badge" src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white&color=black&link=https%3A%2F%2Fwww.tiktok.com%2F%40deceasedghostt">
-</p>
+</p> -->
 <!-- [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Placeholder)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Placeholder)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Placeholder)
