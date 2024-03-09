@@ -27,7 +27,7 @@
 <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/DeceasedGhostt?style=for-the-badge&logo=twitch&logoColor=white&labelColor=purple&link=https%3A%2F%2Fwww.twitch.tv%2Fdeceasedghostt">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/DeceasedGhostt?style=for-the-badge&logo=twitch&logoColor=white&labelColor=purple" href="https://www.twitch.tv/deceasedghostt" />
 <img alt="Static Badge" src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=x&color=black&link=https%3A%2F%2Ftwitter.com%2FDeceasedGhostt">
 <img alt="Static Badge" src="https://img.shields.io/badge/YOUTUBE-black?style=for-the-badge&logo=youtube&color=red&link=https%3A%2F%2Fwww.youtube.com%2F%40DeceasedGhost">
 <img alt="Static Badge" src="https://img.shields.io/badge/reddit-black?style=for-the-badge&logo=reddit&logoColor=white&color=orange&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FDeceasedGhost%2F">
