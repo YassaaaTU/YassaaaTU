@@ -179,7 +179,7 @@ Hosting/SaaS:</h3>
 
 <div align="center">
 	<a href="#table-of-contents">
-		<img src="./scroll-top-icon.svg" alt="Back to top" width="64" height="64">
+		<img src="./noun-to-top-216360.svg" alt="Back to top" width="64" height="64">
 	</a>
 </div>
 
