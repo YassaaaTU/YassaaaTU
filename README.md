@@ -1,10 +1,14 @@
-# Table of Contents
-1. [👨🏻‍💻 Who am I?](#who-am-i)
-2. [🚀 Interests](#interests)
-3. [🎮 Gaming](#gaming)
-4. [📊 GitHub Stats](#github-stats)
-5. [💻 Tech Stack](#tech-stack)
-6. [😂 Random Dev Meme](#random-dev-meme)
+<div id="table-of-contents">
+  <h1>Table of Contents</h1>
+  <ol>
+    <li><a href="#who-am-i">👨🏻‍💻 Who am I?</a></li>
+    <li><a href="#interests">🚀 Interests</a></li>
+    <li><a href="#gaming">🎮 Gaming</a></li>
+    <li><a href="#github-stats">📊 GitHub Stats</a></li>
+    <li><a href="#tech-stack">💻 Tech Stack</a></li>
+    <li><a href="#random-dev-meme">😂 Random Dev Meme</a></li>
+  </ol>
+</div>
 
 <p>&nbsp;</p>
 
@@ -168,5 +172,15 @@ Hosting/SaaS:</h3>
 <p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </p>
+
+---
+
+<p>&nbsp;</p>
+
+<div align="center">
+	<a href="#table-of-contents">
+		<img src="./scroll-top-icon.svg" alt="Back to top" width="64" height="64">
+	</a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) | only used as a template then customized bymyself-->
