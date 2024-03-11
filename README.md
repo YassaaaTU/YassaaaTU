@@ -128,7 +128,7 @@ Hosting/SaaS:</h3>
 
 <h3 align="center">📚 Documentation:</h3>
 <p align="center">
-<img alt="Bitwarden" src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white">
+<img alt="GitBook" src="https://img.shields.io/badge/GitBook-347aeb?style=for-the-badge&logo=gitbook&logoColor=white">
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 <img alt="Adobe Acrobat Reader" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-%23FF0000.svg?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=white">
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
