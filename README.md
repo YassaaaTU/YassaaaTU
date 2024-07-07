@@ -72,6 +72,7 @@ Languages:</h3>
 
 <h3 align="center">🚀 Frameworks & Libraries:</h3>
 <p align="center">
+<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -93,6 +94,7 @@ Languages:</h3>
 <img alt="Languages" src="./server-data-svgrepo-com.svg" width="24" height="24" align="center">
 Hosting/SaaS:</h3>
 <p align="center">
+<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 <img alt="GithubPages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 <img alt="PterodactylPanel" src="https://img.shields.io/badge/Pterodactyl_Panel-10529f?style=for-the-badge&logo=pterodactyl&logoColor=white">
@@ -158,12 +160,16 @@ Hosting/SaaS:</h3>
 </g>
 </svg> Next on my list to learn/get acquainted with:</h3>
 <p align="center">
-<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white">
-<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+Nothing... Maybe you can recommend me something?
+</p>
+</p>
+
+<h3 align="center">Shelved/pushed back:</h3>
+<p align="center">
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
 <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
 </p>
-</p>
+
 
 <p>&nbsp;</p>
 
