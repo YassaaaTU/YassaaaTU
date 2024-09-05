@@ -102,7 +102,7 @@ Hosting/SaaS:</h3>
 
 <h3 align="center">🌐 Web Servers:</h3>
 <p align="center">
-<img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+<!-- <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"> -->
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
 
