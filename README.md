@@ -32,7 +32,7 @@
   <li><strong>Frontend Development</strong>: I love creating beautiful and user-friendly interfaces. HTML, CSS, and JavaScript are my playground.</li>
   <li><strong>Backend Web Development</strong>: I enjoy building robust server-side applications. APIs, databases, and server logic are my jam.</li>
   <li><strong>App Development</strong>: I'm also diving into the world of app development! Whether it's iOS, Android, or cross-platform, I'm excited to explore mobile app technologies.</li>
-  <li><strong>Game Development</strong>: Unity3D is my current focus, and I'm eager to learn more about creating immersive gaming experiences.</li>
+<!--   <li><strong>Game Development</strong>: Unity3D is my current focus, and I'm eager to learn more about creating immersive gaming experiences.</li> -->
   <li><strong>Video Editing</strong>: When I'm not coding, you'll find me editing videos. I enjoy bringing stories to life through visuals.</li>
   <li><strong>UI/UX Design</strong>: Good design enhances user experiences. I can create sleek UI elements and design eye-catching visuals.</li>
 </ul>
