@@ -171,13 +171,13 @@ Nothing... Maybe you can recommend me something?
 </p>
 
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p>
 
 <h3 align="center" id="random-dev-meme">😂 Random Dev Meme</h3>
 
 <p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</p>
+</p> -->
 
 ---
 
