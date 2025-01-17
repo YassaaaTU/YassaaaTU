@@ -14,8 +14,8 @@
 
 <h1 align="center" id="who-am-i">
  👨🏻‍💻 Who am I?
-<img align="left" src="https://visitcount.itsvg.in/api?id=YassaaaTU&label=Profile%20Views&color=12&icon=5&pretty=true" />
- <a href="https://links.yassaaa.com/">
+<img align="left" src="https://visitcount.itsvg.in/api?id=YassaaaTU&label=Profile%20Views&icon=5&pretty=true" />
+<a href="https://links.yassaaa.com/">
 <img align= "right" alt="Static Badge" src="https://img.shields.io/badge/Socials-black?style=for-the-badge">
 </a>
 <a href="https://paypal.me/yjumaah">
